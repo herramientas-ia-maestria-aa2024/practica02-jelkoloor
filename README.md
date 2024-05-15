@@ -1,4 +1,8 @@
 # Taller02
+# Integrantes:
+- Loor Bermúdez Jelko Joseph
+- Paredes Muñoz Jaime Fabricio
+- Machado Falconi Edwin Vinicio
 ### El notebook base fue tomado de:
 
 * Proyecto https://www.kaggle.com/code/danofer/predicting-protein-classification/notebook
@@ -11,3 +15,5 @@
 
 
 #### Proyecto con fines educativos
+
+
